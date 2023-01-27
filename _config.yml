@@ -1,9 +1,9 @@
-remote_theme: daviddarnes/alembic@main
+remote_theme: pages-themes/hacker
 plugins:
 - jekyll-remote-theme
 
-title: Jeremy Howard
+title: ML/AI example
 description: Some basic examples of client interfaces to a computer vision API
 
 author:
-  name: Jeremy Howard
+  name: Hernán
